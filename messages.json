@@ -1,0 +1,13 @@
+[
+  {
+    "role": "user",
+    "content": "please follow what is in the pdf",
+    "attachments": [
+      {
+        "type": "application/pdf",
+        "mime": "application/octet-stream",
+        "url": "https://hstengineer.lon1.digitaloceanspaces.com/messages/null/attachments/4d68bcc6-5441-40ff-8f6f-7c6f8e813c34.pdf"
+      }
+    ]
+  }
+]
